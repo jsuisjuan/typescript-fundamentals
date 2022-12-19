@@ -1,0 +1,7 @@
+{
+    "compilerOptions": {
+        "target": "ESNext",
+        "watch": true,            // to watch the changes made in the ts file to js
+        "lib": ["DOM", "ES2021"] // compile DOM
+    }
+}
